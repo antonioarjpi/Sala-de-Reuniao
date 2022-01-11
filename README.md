@@ -9,6 +9,7 @@ Preview:
 * [Java](https://www.java.com/pt-BR/)
 * [Spring Framework](https://spring.io/)
 * [Angular](https://angular.io/)
+* [PostgreSQL](https://www.postgresql.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [RxJS](https://rxjs.dev/guide/overview)
